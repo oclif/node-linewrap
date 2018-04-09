@@ -1,5 +1,5 @@
 {
-  "name": "@heroku/linewrap",
+  "name": "@oclif/linewrap",
   "version": "1.0.0",
   "description": "",
   "main": "linewrap.js",
